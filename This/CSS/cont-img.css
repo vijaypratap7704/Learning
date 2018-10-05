@@ -1,0 +1,9 @@
+#cont-img
+    {
+        max-width: 15%; 
+        height: auto;
+        border: solid 5px goldenrod;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
