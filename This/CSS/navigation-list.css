@@ -1,0 +1,29 @@
+ul
+    {
+        list-style-type: none;
+        padding: 0px;
+        margin: 2%;
+        overflow: hidden;  /* I Don't Know Why To Use This */
+        background-color: indianred;
+        font-size: 28px;
+        font-family: Georgia;
+    }
+
+li
+    {
+        float: left;
+    }
+
+li a
+    {
+        text-align: center;
+        text-decoration: none;
+        display: block;  /* CELL or BOX TYPE */
+        padding: 12px;
+        color: whitesmoke;
+    }
+
+li a:hover
+    {
+        background-color: brown;
+    }
