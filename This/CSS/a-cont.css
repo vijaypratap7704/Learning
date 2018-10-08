@@ -13,6 +13,7 @@ p a:hover
     {
         color: red;
         background-color: aqua;
+        cursor: pointer;
     }
 
 p
