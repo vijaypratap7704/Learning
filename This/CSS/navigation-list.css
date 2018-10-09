@@ -4,7 +4,7 @@ ul
         padding: 0px;
         margin: 0px;
         overflow: hidden;  /* I Don't Know Why To Use This */
-        background-color: rgb(125, 200, 255);
+        background-color: indianred;
         font-size: 28px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
